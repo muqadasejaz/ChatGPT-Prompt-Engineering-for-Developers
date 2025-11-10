@@ -1,4 +1,4 @@
-# 🧠 ChatGPT Prompt Engineering for Developers
+# 🧠 ChatGPT Prompt Engineering Guidelines for Developers
 
 I recently practiced the **ChatGPT Prompt Engineering for Developers** course by [DeepLearning.AI](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/) and wanted to share my learning journey.  
 This repository contains my notes, experiments, and insights on **effective prompt engineering** for large language models like GPT-3.5.
